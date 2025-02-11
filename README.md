@@ -4,7 +4,8 @@
 
 ## llm
 - create python env
-- ```python 
+ ```python git 
+
 python3 -m venv lumoraenv
 source lumoraenv/bin/activate
 pip install -r requirements.txt
